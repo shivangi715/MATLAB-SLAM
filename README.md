@@ -1,1 +1,1 @@
-# MATLAB-SLAM
+Modern autonomous robots rely heavily on Simultaneous Localization and Mapping (SLAM) to navigate unknown environments while constructing a map of their surroundings. LiDAR-based SLAM systems estimate robot motion by aligning sequential scans and correcting accumulated drift through loop closure techniques.
